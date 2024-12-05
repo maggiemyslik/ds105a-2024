@@ -1,5 +1,3 @@
-<img src="DS105A_person_icon.jpeg" alt="DS105A icon" style="display: block; margin: 2em auto; object-fit: cover; width:5em; height:5em; border-radius: 50%;">
-
 # 🧑‍🏫 Week 10 Analysis (LSE DS105A 2024/25)
 
 <div style="color: #333333; background-color:rgba(226, 106, 79, 0.075); border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); padding: 20px; margin: 2em 0; max-width: 350px;">
@@ -8,10 +6,8 @@
 📍 <strong>LOCATION:</strong> CLM.5.02
 </div>
 
-**AUTHOR:** Dr. [Jon Cardoso-Silva](https://jonjoncardoso.github.io)  
+**AUTHOR:** Maggie Myslik
 **DEPARTMENT:** [LSE Data Science Institute](https://lse.ac.uk/dsi)
-
-> **Educational Notice:** This page demonstrates data visualisation and web publishing techniques for LSE DS105A students. Here I reproduce content from the UK Office for National Statistics (ONS) article ["Why do children and young people in smaller towns do better academically than those in larger towns?"](https://www.ons.gov.uk/peoplepopulationandcommunity/educationandchildcare/articles/whydochildrenandyoungpeopleinsmallertownsdobetteracademicallythanthoseinlargertowns/2023-07-25) (July 2023) as an educational tool to demonstrate how to host markdown-rendered pages via GitHub Pages.
 
 ---
 
